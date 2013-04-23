@@ -1,11 +1,3 @@
-.omakedb*
-
-*.cmi
-*.cmt
-*.cmx
-*.o
-*.omc
-*.opt
 *.swp
 
-physinfo_dump
+dist

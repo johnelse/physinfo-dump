@@ -1,0 +1,9 @@
+name: physinfo-dump
+version: 0.1.0
+synopsis: Minimal program for dumping a XenServer's physical information
+obuild-ver: 1
+
+executable physinfo-dump
+  main: physinfo_dump.ml
+  src-dir: src
+  build-deps: xenctrl
